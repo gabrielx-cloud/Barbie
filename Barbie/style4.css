@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+    margin:0;
+}
+header{
+background: pink;
+padding:20px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+.evento {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.data {
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-bottom: 4px solid purple; 
+    color: purple;
+}
+footer{ 
+display: flex;
+justify-content: center;
+gap: 20px;
+flex-wrap: wrap;
+margin-bottom: 50px; background-color: pink;
+margin: 0;
+}
+.links{
+border-radius: 10px;
+text-align:center;
+}

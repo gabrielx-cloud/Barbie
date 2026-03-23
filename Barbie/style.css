@@ -1,0 +1,62 @@
+.cabecalho {
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    padding-top: 40px;
+    font-size: 25px;
+    color: purple;
+    font-family: cursive;
+}
+
+body {
+    background-color: beige;
+    margin: auto;
+}
+.DivPai1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+header{
+background: pink;
+padding:20px;
+display:flex;
+justify-content: center;
+height: 200px;
+}
+
+.evento {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.data {
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-bottom: 4px solid purple;
+}
+
+footer{
+    background: beige;
+    padding:20px;
+    display:flex;
+    justify-content: center;
+    height: 150px;
+    
+}
+.nova{
+    background-color: plum;
+    padding: 20px;
+    display:flex;
+    justify-content: center;
+    height: 200px;
+}
+.data a {
+    color: rgb(0, 0, 0);
+}

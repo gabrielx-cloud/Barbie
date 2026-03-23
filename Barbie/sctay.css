@@ -1,0 +1,42 @@
+body {
+  background-color: beige;
+margin: 0;
+}
+
+header{
+background: pink;
+padding:20px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+.Pai{
+    background-color: purple;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    border-bottom: 4px ;
+    color: beige;
+    
+    
+}
+.Pai2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+h1 { 
+    color: purple
+} 
+.Filho{
+
+     background-color: purple;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    border-bottom: 4px ;
+    color: beige;
+}
