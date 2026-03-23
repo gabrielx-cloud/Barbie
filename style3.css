@@ -1,0 +1,60 @@
+header{
+background: pink;
+padding:20px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+body{
+    background-color: beige;
+}
+.holiday{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.oitenta {
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-bottom: 4px solid purple; 
+    color: purple;
+}
+.mil {
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-bottom: 4px solid purple; 
+    color: purple;
+}
+.dez {
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-bottom: 4px solid purple; 
+    color: purple;
+}
+.Pai{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.filtro{
+    background-color: rgb(253, 154, 170);
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+    border-bottom: 4px solid purple; 
+    color: purple;
+}
+
+.ckjdjka a {
+    color
+}
